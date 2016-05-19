@@ -1,6 +1,6 @@
 {
   "name": "header-footer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ReactJS Header Footer",
   "main": "index.js",
   "scripts": {
